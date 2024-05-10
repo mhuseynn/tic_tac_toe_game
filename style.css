@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    color: aqua;
+    
+}
+
+p
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    font-size: 30px;
+    color: green;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons
+{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: white;
+    border-color: aqua;
+    color: brown;
+    font-size: 30px;
+}
